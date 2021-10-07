@@ -1,0 +1,3 @@
+What color is the sky?;blue
+What is the capital of Texas?;Austin
+Who was the 1st president?;George Washington
